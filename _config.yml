@@ -1,5 +1,5 @@
-title: Digital Services Engagement Guide
-description: The Digital Services Engagement Guide is a resource for bringing together city staff to tackle large-scale innovation.
+title: Content Transition Jumpstart Toolkit
+description: We’re helping departments transition their content to a prototype platform, ensuring that it is service-oriented, written and structured to meet the needs of residents.
 email: innovationfellows@austintexas.gov
 timezone: UTC
 collections:
@@ -23,8 +23,8 @@ defaults:
   values:
     layout: sidebar-page
 
-baseurl: https://cityofaustin.github.io/digital-services-engagement-guide
-url: https://cityofaustin.github.io/digital-services-engagement-guide/
+baseurl:
+url: https://cityofaustin.github.io/content-transition-jumpstart-toolkit/
 twitter:
   username: civiqueso
 zilker_theme: dark
