@@ -23,8 +23,8 @@ defaults:
   values:
     layout: sidebar-page
 
-baseurl:
-url: https://cityofaustin.github.io/content-transition-jumpstart-toolkit/
+baseurl: /
+url: https://cityofaustin.github.io/content-transition-jumpstart-toolkit
 twitter:
   username: civiqueso
 zilker_theme: dark

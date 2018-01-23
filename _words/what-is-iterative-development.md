@@ -8,7 +8,7 @@ Historically, a majority of projects fail because they haven’t been tested wit
 
 ### Traditional Development Process
 
-![]()
+![Traditional Development Process diagram]({{ "/assets/img/traditional-dev-process.jpg" | base_url }})
 
 Image source: [UX Research within an Agile Design and Development Sprint Cycle, from UXPA](https://www.slideshare.net/UXPA/ux-research-within-an-agile-design-and-development-sprint-cycle)
 
@@ -18,7 +18,7 @@ A team performs some early research, then develops a set of requirements. Someti
 
 Iterative development refers to a method of project management, used especially for software development, that uses research throughout the project with incremental phases of work.
 
-![iterative development process](https://cityofaustin.github.io/content-transition-jumpstart-toolkit/assets/img/iterative-dev-process.jpg)
+![iterative development process diagram]({{ "/assets/img/iterative-dev-process.jpg" | base_url }})
 
 Image source: [UX Research within an Agile Design and Development Sprint Cycle, from UXPA](https://www.slideshare.net/UXPA/ux-research-within-an-agile-design-and-development-sprint-cycle)
 
