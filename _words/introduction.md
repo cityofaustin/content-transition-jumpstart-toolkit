@@ -4,7 +4,7 @@ permalink: /introduction/
 position: 0
 ---
 
-## Content Transition Jumpstart Toolkit
+## Get a Jumpstart on Transitioning your Content 
 
 We are changing the way that we deliver digital services to residents. Hopefully, you’ve heard of the digital services project that is underway. If not, please [learn more about the project here](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/what-we-are-doing/).
 
