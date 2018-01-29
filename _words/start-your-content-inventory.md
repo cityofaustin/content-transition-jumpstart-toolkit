@@ -14,7 +14,7 @@ A content inventory we'll help your department discover:
 * what content is out of date or no longer relevant
 * how the content could be reorganized to improve clarity
 
-[Link to Google Doc with more info on Content Inventory Template](https://docs.google.com/document/d/1xiqtInY8Ml8dPqIg6Hfgl5XhSgfzOSRHkTLrOutEt_E/edit#heading=h.wjqxedpgpsg6)
+[See more information on the Content Inventory Template](https://docs.google.com/document/d/1xiqtInY8Ml8dPqIg6Hfgl5XhSgfzOSRHkTLrOutEt_E/edit#heading=h.wjqxedpgpsg6)
 
 ### Content Inventory Example
 
