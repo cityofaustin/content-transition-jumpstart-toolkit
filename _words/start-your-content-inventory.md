@@ -10,7 +10,7 @@ This includes web pages, images, audio and video files, interactive elements, do
 ### What is a content inventory?
 A content inventory answers the question of: “What is there?” It is the cataloging of all of the content on a website and can be the start of a website review. 
 
-Your department's director will assign a point of contact for this project, and they will be work to complete the inventory. ![Download the Content Inventory Template.]({{ site.url }}/assets/Content%20Inventory%20Template.xlsx)
+Your department's director will assign a point of contact for this project, and they will be work to complete the inventory. ![Download the Content Inventory Template.]({{ site.url }}/assets/Content Inventory Template.xlsx)  
 
 ![screenshot of Excel Spreadsheet used for content inventory]({{ site.url }}/assets/img/content-inventory-screenshot.png)
 
